@@ -44,4 +44,4 @@ get a new paragraph
 
 >quote
 
-![Fat Squirrel](Fat Squirrel.jpg)
+![Fat Squirrel](Fat-Squirrel.jpg)
